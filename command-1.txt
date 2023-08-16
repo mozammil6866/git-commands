@@ -1,0 +1,11 @@
+1.	git init	-	Initialize a new Git repository.
+2.	git status	-	to check status of local files.
+3.	git add (file name)	-	selecting a file for commit.
+4.	git commit -m "inset your message"	-	adding a message to commit.
+5.	git push branch name	-	pushing to the branch
+6.	git log	-	to check all the previous commit history and commit id.
+7.	git diff (file name)	-	to check what changes have been changed in file.
+8.	git branch -	to check your current branch
+9.	git checkout (other branch name)	-	it is used to switch form one branch to another.
+10.	git checkout -b (new branch name)	- to creat a new branch.
+
